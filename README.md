@@ -26,4 +26,10 @@ It can be used in **portfolios, CVs, dashboards, or learning platforms** to visu
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/skills-library.git
+git clone https://github.com/HelleFH/icon-pills.git
+```bash
+npm install
+
+```bash
+npm run dev
+
