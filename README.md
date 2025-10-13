@@ -27,3 +27,8 @@ It’s perfect for **portfolios, resumes, dashboards, or learning platforms** to
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/helle/icon-pills.git
+
+### 1️⃣ Clone the repository
+
+```bash
+npm install
