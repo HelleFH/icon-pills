@@ -4,10 +4,10 @@ import { BiCheckCircle } from "react-icons/bi";
 import { MdTimeline, MdDesignServices, MdSupportAgent, MdLanguage, MdOutlineSecurity, MdOutlineManageAccounts, MdOutlineDraw, MdOutlineAnalytics, MdOutlineDashboard } from "react-icons/md";
 import { TbBrandReactNative } from "react-icons/tb";
 import { 
-  FaPython, FaReact, FaHtml5, FaCss3Alt, FaServer, FaUserCog, FaProjectDiagram, FaLaptopCode, FaClipboardList, FaHeadset, FaPenNib, FaUsers, FaBug, FaDatabase, FaGlobe, FaSearch, FaTools, FaLightbulb, FaChartLine, FaEnvelopeOpenText, FaCloud, FaWrench, FaCogs, FaNetworkWired, FaFlask 
+  FaPython,FaServer, FaUserCog, FaProjectDiagram, FaLaptopCode, FaClipboardList, FaHeadset, FaPenNib, FaUsers, FaBug, FaDatabase, FaGlobe, FaSearch, FaTools, FaLightbulb, FaChartLine, FaEnvelopeOpenText, FaCloud, FaWrench, FaCogs, FaNetworkWired, FaFlask 
 } from "react-icons/fa";
 import { 
-  SiHtml5, SiCss3, SiJavascript, SiTypescript, SiReact, SiVuedotjs, SiNextdotjs, SiRedux, SiFirebase, SiGraphql, SiCanva, SiFigma, SiTailwindcss, SiBootstrap, SiStyledcomponents, SiWebpack, SiGit, SiJest, SiPostman, SiVite, SiNodedotjs, SiExpress, SiMongodb, SiCloudinary, SiExpo, SiGooglecloud, SiHubspot, SiYoutube, SiJquery, SiFlask, SiAxios, SiJsonwebtokens, SiDotenv, SiSwagger, SiPhp, SiAdobephotoshop, SiAdobepremierepro, SiJira, SiSlack, SiGithub, SiWordpress, SiMysql, SiPython as SiPythonIcon 
+  SiHtml5, SiCss3, SiJavascript, SiTypescript, SiReact, SiVuedotjs, SiNextdotjs, SiRedux, SiFirebase, SiGraphql, SiCanva, SiFigma, SiTailwindcss, SiBootstrap, SiStyledcomponents, SiWebpack, SiGit, SiJest, SiPostman, SiVite, SiNodedotjs, SiExpress, SiMongodb, SiCloudinary, SiExpo, SiGooglecloud, SiHubspot, SiYoutube, SiJquery, SiFlask, SiAxios, SiJsonwebtokens, SiDotenv, SiPhp, SiAdobephotoshop, SiAdobepremierepro, SiJira, SiSlack, SiGithub, SiWordpress, SiMysql, 
 } from "react-icons/si";
 
 export interface SkillItem {
