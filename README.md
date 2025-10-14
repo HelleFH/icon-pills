@@ -25,8 +25,14 @@ It’s perfect for **portfolios, resumes, dashboards, or learning platforms** to
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/helle/icon-pills.git
+### `npm install`
+### `npm run dev`
+
+Runs the app in development mode.  
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+
+The page will automatically reload when you make changes to the code.  
+You may also see any TypeScript or lint errors in the console.
 
 ### 1️⃣ Clone the repository
 
